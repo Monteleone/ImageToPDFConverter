@@ -25,9 +25,9 @@ A simple Python application to convert image files (PNG, JPG, JPEG) into PDF for
 
 2. **Install required libraries: You can install the necessary libraries by running**:
 
-``` 
-pip install PyQt5 Pillow
-Run the application: After installing the dependencies, you can run the application:
-```
+   ``` 
+   pip install PyQt5 Pillow
+   Run the application: After installing the dependencies, you can run the application:
+   ```
  
-3. **python image_to_pdf_converter.py**:
+3. **python image_to_pdf_converter.py**
