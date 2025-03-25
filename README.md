@@ -20,7 +20,7 @@ A simple Python application to convert image files (PNG, JPG, JPEG) into PDF for
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/image-to-pdf-converter.git
+   git clone https://github.com/Monteleone/ImageToPDFConverter
    cd image-to-pdf-converter
 
 2. **Install required libraries: You can install the necessary libraries by running**:
